@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">Old School Developer | Professional Problem Solve</h3>
+<h3 align="center">Old School Developer | Professional Problem Solver</h3>
+
+
 
 - 🔭 I’m currently working on [My World of Work](https://myworldofwork.co.uk) & [Young Persons Guarentee](https://youngpersonsguarantee.scot)
 
