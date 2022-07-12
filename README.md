@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My World of Work](https://myworldofwork.co.uk) & [Young Persons Guarentee](https://youngpersonsguarantee.scot)
 
-- 🌱 I’m currently learning **Drupal 9**
+- 🌱 I’m currently learning **Inertia**
 
 - 👨‍💻 All of my projects are available at [https://jimmyhowe.com](https://jimmyhowe.com)
 
